@@ -2,4 +2,4 @@
 
 🙋‍♀️ A short introduction
 
-We are an software development stataup with the aim of growing
+We are a software development stataup with the aim of growing
